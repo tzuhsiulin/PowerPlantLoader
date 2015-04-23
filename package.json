@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "chinese-writing-style-converter": "0.0.1",
+    "csvtojson": "^0.3.21",
+    "htmlparser2": "^3.8.2",
+    "q": "^1.2.0"
+  }
+}
